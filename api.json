@@ -1,0 +1,44 @@
+[
+    {
+        "precio": 2000,
+        "id": 1,
+        "title": "Remera Eclipse",
+        "thumbnailUrl": "/media/camisa.jpg"
+    },
+    {
+        "precio": 6000,
+        "id": 2,
+        "title": "Camisa Trueno",
+        "thumbnailUrl": "/media/camisa.jpg"
+    },
+    {  
+        "precio": 1700,
+        "id": 3,
+        "title": "Guantes 030",
+        "thumbnailUrl": "/media/camisa.jpg"
+    },
+    {
+        "precio": 3330,
+        "id": 4,
+        "title": "Remera Numeral",
+        "thumbnailUrl": "/media/camisa.jpg"
+    },
+    {
+        "precio": 7000,
+        "id": 5,
+        "title": "Campera Esfera",
+        "thumbnailUrl": "/media/camisa.jpg"
+    },
+    {
+        "precio": 4000,
+        "id": 6,
+        "title": "Buzo Dígito",
+        "thumbnailUrl": "/media/camisa.jpg"
+    },
+    {
+        "precio": 4000,
+        "id": 7,
+        "title": "Buzo Dígito",
+        "thumbnailUrl": "/media/camisa.jpg"
+    }
+]
